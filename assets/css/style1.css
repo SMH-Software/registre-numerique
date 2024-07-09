@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700|Handlee);
+body {
+    background: #eedfcc url('../img/bg.png') no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+.container > header h1,
+.container > header h2 {
+color:#0A4978;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+}
+.Style1 {
+font-size: 18px;
+font-weight: bold;
+}
+.Style2 {
+color: #0F4A79;
+font-weight: bold;
+font-size: 16px;
+}
